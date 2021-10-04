@@ -6,7 +6,7 @@
 3. APISpreadsheets was used to get the api for the google sheet.
 4. Javascript and Ajax were used to configure  and send data to the spreadsheet.
 
-## Screenshot
+## Screenshots
 
 <img src="form.png" width="100%" height="">
 <img src="formsubmit.png" width="100%" height="">
